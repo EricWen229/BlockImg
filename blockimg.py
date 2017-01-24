@@ -162,7 +162,7 @@ class BlockImgGenerate:
 
 			#if currGeneration % 512 == 0:
 				#pop[index].generateImg().show()
-				
+
 			newPop = []
 			newPop.append(pop[index]) # elite strategy: keep the best individual
 			currPopulationSize = 1
