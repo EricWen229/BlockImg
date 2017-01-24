@@ -1,4 +1,11 @@
 # BlockImg
+
+![image](https://github.com/EricWen229/BlockImg/raw/master/demo.png)
+
+![image](https://github.com/EricWen229/BlockImg/raw/master/blockImg.png)
+
+---
+
 A tiny python program that uses genetic algorithm to create image consisting of blocks
 
 ## Dependencies
